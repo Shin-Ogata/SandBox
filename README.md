@@ -10,8 +10,8 @@ Folder and file structure of this repository is the following list.
 
     root/
         app/                                        // application development root directory.
+            external/                                // 3rd party library modules here.
             lib/                                    // for internal library module development.
-            modules/                                // 3rd party library modules here.
             res/                                    // for application resources.
             scripts/                                // .ts files here.
             stylesheets/                            // .scss files here.
